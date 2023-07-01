@@ -1,1 +1,1 @@
-【黑马程序员2023新版JavaWeb开发教程，实现javaweb企业开发全流程（涵盖Spring+MyBatis+SpringMVC+SpringBoot等）】 https://www.bilibili.com/video/BV1m84y1w7Tb/?p=72&share_source=copy_web&vd_source=9cfb93a41a42500ff204c32c667c09b3
+[黑马程序员2023新版JavaWeb开发教程，实现JavaWeb企业开发全流程（涵盖Spring+MyBatis+SpringMVC+SpringBoot等）](https://www.bilibili.com/video/BV1m84y1w7Tb/?p=72&share_source=copy_web&vd_source=9cfb93a41a42500ff204c32c667c09b3)
